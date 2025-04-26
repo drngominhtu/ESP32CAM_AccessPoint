@@ -1,4 +1,4 @@
-📷 Project Overview
+## Project Overview
 This project configures the ESP32-CAM to function as a standalone Wi-Fi Access Point. Once powered on, the device broadcasts its own Wi-Fi network. Users can connect to this network using a smartphone or computer and view the live camera feed through a web browser.​
 
 🧾 Repository Contents
